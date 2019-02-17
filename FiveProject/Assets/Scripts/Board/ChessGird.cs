@@ -22,7 +22,7 @@ namespace FiveChess
         public bool isPlaced;
         public ChessBoard board;//棋盘用于管理
         public ChessState chessState=ChessState.None;//判定 0 none 1白棋 2黑棋 该棋盘的子
-
+        public int weightedValues = 0;//权重值
         private bool isOver=false;
 
 
@@ -30,6 +30,7 @@ namespace FiveChess
         {
             board.OnWin += Board_OnWin;
         }
+
 
         private void Board_OnWin()
         {
@@ -62,12 +63,14 @@ namespace FiveChess
             {
                 //白棋
                 chessState = ChessState.WhiteChess;
+                weightedValues = 1;
                 //该位置绘制一个白棋
             }
             else
             {
                 //黑棋
                 chessState = ChessState.BlackChess;
+                weightedValues = 2;
                 //该位置绘制一个黑棋
             }
             if (board != null)
@@ -86,8 +89,10 @@ namespace FiveChess
             chessState = ChessState.None;
             //清除绘制
         }
-
-        private void DrawSpere()
+        /// <summary>
+        /// 绘制黑白棋
+        /// </summary>
+        public void DrawSpere()
         {
 
             SpriteRenderer spriteRenderer = this.gameObject.GetComponent<SpriteRenderer>();

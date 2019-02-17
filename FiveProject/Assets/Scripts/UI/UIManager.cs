@@ -12,6 +12,7 @@
 
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 namespace FiveChess
 {
 
@@ -21,6 +22,9 @@ namespace FiveChess
         public ChessState chessState;
         public GameStatus gameStatus;
         public bool isOver;
+        public bool isTurn;
+        public Text text;
+        public Text InfoText;
         private void OnGUI()
         {
 
@@ -55,10 +59,6 @@ namespace FiveChess
                 default:
                     break;
             }
-
-       
-
-
         }
     }
 }

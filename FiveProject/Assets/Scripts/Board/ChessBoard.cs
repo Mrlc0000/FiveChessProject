@@ -203,6 +203,7 @@ namespace FiveChess
 
         public Action<Vector2Int, ChessState> OnPlayerPlayChess;//触发玩家棋的位置
         public event Action OnWin;//触发玩家棋的位置
+        public event Action<int> OnTurn;//turn间隔 回合制间隔 0代表等待  奇数 1白棋 2偶数黑棋
         public event Action<Vector2Int> OnPlayerRegret;//触发悔棋的事件 因面试题暂不开发
         public Stack<Vector2Int> pastedStep;
 
@@ -227,6 +228,15 @@ namespace FiveChess
             }
 
             playerIndex++;//增加回合 
+
+            #region 轮询逻辑
+            if (OnTurn!=null)
+            {
+                OnTurn.Invoke(playerIndex);//暂停事件
+            }
+
+            #endregion
+
 
 
             //TODO增加栈 来储存10步内的悔棋。
@@ -381,6 +391,8 @@ namespace FiveChess
 
 
         #endregion
+
+
 
 
     }

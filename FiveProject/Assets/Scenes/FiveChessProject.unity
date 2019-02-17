@@ -144,7 +144,8 @@ MonoBehaviour:
   index: {x: 7, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &12569847
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -201,7 +202,8 @@ MonoBehaviour:
   index: {x: 7, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &21803395
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -258,7 +260,8 @@ MonoBehaviour:
   index: {x: 6, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &31827780
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -315,7 +318,8 @@ MonoBehaviour:
   index: {x: 8, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &37030789
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -372,7 +376,8 @@ MonoBehaviour:
   index: {x: 7, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &65190285
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -429,7 +434,8 @@ MonoBehaviour:
   index: {x: 8, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &66438218
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -486,7 +492,8 @@ MonoBehaviour:
   index: {x: 10, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &69887495
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -543,7 +550,8 @@ MonoBehaviour:
   index: {x: 1, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &106074221
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -600,7 +608,8 @@ MonoBehaviour:
   index: {x: 0, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &114451816
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -657,7 +666,8 @@ MonoBehaviour:
   index: {x: 7, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &127061843
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -714,7 +724,8 @@ MonoBehaviour:
   index: {x: 0, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &137913077
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -771,7 +782,8 @@ MonoBehaviour:
   index: {x: 13, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &140792420
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -828,7 +840,8 @@ MonoBehaviour:
   index: {x: 4, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &144296983
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -885,7 +898,8 @@ MonoBehaviour:
   index: {x: 3, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &179843473
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -942,7 +956,8 @@ MonoBehaviour:
   index: {x: 3, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &186933600
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -999,7 +1014,8 @@ MonoBehaviour:
   index: {x: 9, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &227967122
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1056,7 +1072,8 @@ MonoBehaviour:
   index: {x: 9, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &243860399
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1113,7 +1130,8 @@ MonoBehaviour:
   index: {x: 12, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &246712702
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1170,7 +1188,8 @@ MonoBehaviour:
   index: {x: 14, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &260758913
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1227,7 +1246,8 @@ MonoBehaviour:
   index: {x: 6, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &287965387
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1284,7 +1304,8 @@ MonoBehaviour:
   index: {x: 5, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &294608570
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1341,7 +1362,8 @@ MonoBehaviour:
   index: {x: 9, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &299732738
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1398,7 +1420,8 @@ MonoBehaviour:
   index: {x: 4, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &305907390
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1455,7 +1478,8 @@ MonoBehaviour:
   index: {x: 10, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &308740615
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1512,7 +1536,8 @@ MonoBehaviour:
   index: {x: 13, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &320916531
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1569,7 +1594,8 @@ MonoBehaviour:
   index: {x: 8, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &324967383
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1626,7 +1652,8 @@ MonoBehaviour:
   index: {x: 7, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &330908004
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1683,7 +1710,8 @@ MonoBehaviour:
   index: {x: 8, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &331291764
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1740,7 +1768,8 @@ MonoBehaviour:
   index: {x: 0, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &334285252
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1797,7 +1826,8 @@ MonoBehaviour:
   index: {x: 5, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &338330281
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1854,7 +1884,8 @@ MonoBehaviour:
   index: {x: 14, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &340752188
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1911,7 +1942,8 @@ MonoBehaviour:
   index: {x: 6, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &353675387
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1968,7 +2000,8 @@ MonoBehaviour:
   index: {x: 3, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &354618541
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2025,7 +2058,8 @@ MonoBehaviour:
   index: {x: 12, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &360142175
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2082,7 +2116,8 @@ MonoBehaviour:
   index: {x: 11, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &366012058
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2139,7 +2174,8 @@ MonoBehaviour:
   index: {x: 12, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &366962600
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2196,7 +2232,8 @@ MonoBehaviour:
   index: {x: 1, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &391143275
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2253,7 +2290,8 @@ MonoBehaviour:
   index: {x: 11, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &400051282
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2310,7 +2348,8 @@ MonoBehaviour:
   index: {x: 5, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &411135911
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2367,7 +2406,8 @@ MonoBehaviour:
   index: {x: 6, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &428787985
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2424,7 +2464,8 @@ MonoBehaviour:
   index: {x: 4, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &434137883
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2481,7 +2522,8 @@ MonoBehaviour:
   index: {x: 5, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &441165127
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2538,7 +2580,8 @@ MonoBehaviour:
   index: {x: 3, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &447694677
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2595,7 +2638,8 @@ MonoBehaviour:
   index: {x: 11, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &449821774
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2652,7 +2696,8 @@ MonoBehaviour:
   index: {x: 1, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &464094358
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2709,7 +2754,8 @@ MonoBehaviour:
   index: {x: 11, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &468796579
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2766,7 +2812,8 @@ MonoBehaviour:
   index: {x: 4, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &478014138
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2823,7 +2870,8 @@ MonoBehaviour:
   index: {x: 9, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &489408651
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2880,7 +2928,8 @@ MonoBehaviour:
   index: {x: 7, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &492072168
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2937,7 +2986,8 @@ MonoBehaviour:
   index: {x: 9, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &505726578
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2994,7 +3044,8 @@ MonoBehaviour:
   index: {x: 13, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &542208086
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3051,7 +3102,8 @@ MonoBehaviour:
   index: {x: 12, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &542680694
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3108,7 +3160,8 @@ MonoBehaviour:
   index: {x: 1, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &548641450
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3165,7 +3218,8 @@ MonoBehaviour:
   index: {x: 7, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &565266708
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3222,7 +3276,8 @@ MonoBehaviour:
   index: {x: 5, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &566090042
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3279,7 +3334,8 @@ MonoBehaviour:
   index: {x: 12, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &566685094
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3336,7 +3392,8 @@ MonoBehaviour:
   index: {x: 8, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &574141063
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3375,6 +3432,8 @@ GameObject:
   - component: {fileID: 576970628}
   - component: {fileID: 576970632}
   - component: {fileID: 576970633}
+  - component: {fileID: 576970634}
+  - component: {fileID: 576970635}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -3703,6 +3762,33 @@ MonoBehaviour:
   isShowLine: 1
   playerIndex: 0
   mat: {fileID: 2100000, guid: 954237588ab78df43b62fb3db5939805, type: 2}
+--- !u!114 &576970634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 576970627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29e05066b76c924084469ce4a73a31c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chessBoard: {fileID: 576970633}
+  chessState: 1
+--- !u!114 &576970635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 576970627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51a79108e6ee2394d941fd6eae32e484, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EventObject: {fileID: 1598032797}
+  chessBoard: {fileID: 576970633}
+  chessState: 2
 --- !u!1 &580008009
 GameObject:
   m_ObjectHideFlags: 0
@@ -3734,7 +3820,8 @@ MonoBehaviour:
   index: {x: 1, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &580008011
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3791,7 +3878,8 @@ MonoBehaviour:
   index: {x: 12, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &582309556
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3848,7 +3936,8 @@ MonoBehaviour:
   index: {x: 14, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &584236628
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3905,7 +3994,8 @@ MonoBehaviour:
   index: {x: 0, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &586328943
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3962,7 +4052,8 @@ MonoBehaviour:
   index: {x: 8, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &615017716
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4019,7 +4110,8 @@ MonoBehaviour:
   index: {x: 8, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &625259706
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4076,7 +4168,8 @@ MonoBehaviour:
   index: {x: 14, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &629261335
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4133,7 +4226,8 @@ MonoBehaviour:
   index: {x: 9, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &629447196
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4190,7 +4284,8 @@ MonoBehaviour:
   index: {x: 14, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &658597281
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4247,7 +4342,8 @@ MonoBehaviour:
   index: {x: 8, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &666114542
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4329,7 +4425,8 @@ MonoBehaviour:
   index: {x: 14, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!1 &688852132
 GameObject:
   m_ObjectHideFlags: 0
@@ -4361,7 +4458,8 @@ MonoBehaviour:
   index: {x: 2, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &688852134
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4418,7 +4516,8 @@ MonoBehaviour:
   index: {x: 1, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &712825057
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4475,7 +4574,8 @@ MonoBehaviour:
   index: {x: 7, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &716262801
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4532,7 +4632,8 @@ MonoBehaviour:
   index: {x: 10, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &729938167
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4589,7 +4690,8 @@ MonoBehaviour:
   index: {x: 14, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &746991846
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4646,7 +4748,8 @@ MonoBehaviour:
   index: {x: 11, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &752809280
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4703,7 +4806,8 @@ MonoBehaviour:
   index: {x: 11, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &753885107
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4760,7 +4864,8 @@ MonoBehaviour:
   index: {x: 3, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &765212734
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4817,7 +4922,8 @@ MonoBehaviour:
   index: {x: 2, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &785439951
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4874,7 +4980,8 @@ MonoBehaviour:
   index: {x: 0, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &792098767
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4931,7 +5038,8 @@ MonoBehaviour:
   index: {x: 10, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &803827973
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4988,7 +5096,8 @@ MonoBehaviour:
   index: {x: 9, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &813549970
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5045,7 +5154,8 @@ MonoBehaviour:
   index: {x: 2, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &816208967
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5102,7 +5212,8 @@ MonoBehaviour:
   index: {x: 4, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &830352446
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5159,7 +5270,8 @@ MonoBehaviour:
   index: {x: 0, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &831960057
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5216,7 +5328,8 @@ MonoBehaviour:
   index: {x: 9, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &833147345
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5273,7 +5386,8 @@ MonoBehaviour:
   index: {x: 2, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &847811921
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5330,7 +5444,8 @@ MonoBehaviour:
   index: {x: 4, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &890989597
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5387,7 +5502,8 @@ MonoBehaviour:
   index: {x: 1, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &892450550
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5444,7 +5560,8 @@ MonoBehaviour:
   index: {x: 3, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &894420180
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5501,7 +5618,8 @@ MonoBehaviour:
   index: {x: 11, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &897175951
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5558,7 +5676,8 @@ MonoBehaviour:
   index: {x: 14, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &904233269
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5615,7 +5734,8 @@ MonoBehaviour:
   index: {x: 0, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &928104301
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5672,7 +5792,8 @@ MonoBehaviour:
   index: {x: 10, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &939158848
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5729,7 +5850,8 @@ MonoBehaviour:
   index: {x: 3, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &939835526
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5786,7 +5908,8 @@ MonoBehaviour:
   index: {x: 7, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &946562016
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5843,7 +5966,8 @@ MonoBehaviour:
   index: {x: 14, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &949863156
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5900,7 +6024,8 @@ MonoBehaviour:
   index: {x: 6, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &963101232
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5957,7 +6082,8 @@ MonoBehaviour:
   index: {x: 7, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &966764506
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6014,7 +6140,8 @@ MonoBehaviour:
   index: {x: 5, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &968263255
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6071,7 +6198,8 @@ MonoBehaviour:
   index: {x: 13, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &974788963
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6128,7 +6256,8 @@ MonoBehaviour:
   index: {x: 9, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &977717151
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6185,7 +6314,8 @@ MonoBehaviour:
   index: {x: 8, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &991861079
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6242,7 +6372,8 @@ MonoBehaviour:
   index: {x: 10, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1011047250
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6299,7 +6430,8 @@ MonoBehaviour:
   index: {x: 3, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1023226386
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6356,7 +6488,8 @@ MonoBehaviour:
   index: {x: 13, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1028522327
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6413,7 +6546,8 @@ MonoBehaviour:
   index: {x: 11, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1033599050
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6470,7 +6604,8 @@ MonoBehaviour:
   index: {x: 2, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1035354204
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6527,7 +6662,8 @@ MonoBehaviour:
   index: {x: 0, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1046886627
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6584,7 +6720,8 @@ MonoBehaviour:
   index: {x: 8, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1047121313
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6641,7 +6778,8 @@ MonoBehaviour:
   index: {x: 11, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1050253460
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6698,7 +6836,8 @@ MonoBehaviour:
   index: {x: 11, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1067114135
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6755,7 +6894,8 @@ MonoBehaviour:
   index: {x: 2, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1072723935
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6812,7 +6952,8 @@ MonoBehaviour:
   index: {x: 8, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1075592726
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6869,7 +7010,8 @@ MonoBehaviour:
   index: {x: 3, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1092230496
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6926,7 +7068,8 @@ MonoBehaviour:
   index: {x: 14, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1114322604
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6983,7 +7126,8 @@ MonoBehaviour:
   index: {x: 0, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1120501498
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7040,7 +7184,8 @@ MonoBehaviour:
   index: {x: 6, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1156880551
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7097,7 +7242,8 @@ MonoBehaviour:
   index: {x: 4, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1162683721
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7154,7 +7300,8 @@ MonoBehaviour:
   index: {x: 6, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1166045635
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7211,7 +7358,8 @@ MonoBehaviour:
   index: {x: 10, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1168789245
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7268,7 +7416,8 @@ MonoBehaviour:
   index: {x: 13, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1174144759
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7325,7 +7474,8 @@ MonoBehaviour:
   index: {x: 4, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1187014700
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7382,7 +7532,8 @@ MonoBehaviour:
   index: {x: 2, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1200131172
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7439,7 +7590,8 @@ MonoBehaviour:
   index: {x: 1, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1241082885
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7496,7 +7648,8 @@ MonoBehaviour:
   index: {x: 1, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1243932383
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7553,7 +7706,8 @@ MonoBehaviour:
   index: {x: 0, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1244968090
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7610,7 +7764,8 @@ MonoBehaviour:
   index: {x: 14, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1251508538
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7667,7 +7822,8 @@ MonoBehaviour:
   index: {x: 1, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1259262972
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7724,7 +7880,8 @@ MonoBehaviour:
   index: {x: 11, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1260762951
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7781,7 +7938,8 @@ MonoBehaviour:
   index: {x: 12, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1278864070
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7838,7 +7996,8 @@ MonoBehaviour:
   index: {x: 0, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1283046534
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7895,7 +8054,8 @@ MonoBehaviour:
   index: {x: 2, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1285712882
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7952,7 +8112,8 @@ MonoBehaviour:
   index: {x: 6, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1300085937
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8103,7 +8264,8 @@ MonoBehaviour:
   index: {x: 0, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1322844763
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8160,7 +8322,8 @@ MonoBehaviour:
   index: {x: 10, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1323428444
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8217,7 +8380,8 @@ MonoBehaviour:
   index: {x: 4, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1346355631
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8274,7 +8438,8 @@ MonoBehaviour:
   index: {x: 6, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1355919052
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8331,7 +8496,8 @@ MonoBehaviour:
   index: {x: 13, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1356037122
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8388,7 +8554,8 @@ MonoBehaviour:
   index: {x: 10, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1363483315
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8445,7 +8612,8 @@ MonoBehaviour:
   index: {x: 9, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1375685422
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8502,7 +8670,8 @@ MonoBehaviour:
   index: {x: 6, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1382677585
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8559,7 +8728,8 @@ MonoBehaviour:
   index: {x: 9, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1400502781
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8616,7 +8786,8 @@ MonoBehaviour:
   index: {x: 12, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1423094957
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8673,7 +8844,8 @@ MonoBehaviour:
   index: {x: 11, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1424392039
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8730,7 +8902,8 @@ MonoBehaviour:
   index: {x: 6, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1425659497
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8787,7 +8960,8 @@ MonoBehaviour:
   index: {x: 3, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1429898491
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8844,7 +9018,8 @@ MonoBehaviour:
   index: {x: 3, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1430793389
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8901,7 +9076,8 @@ MonoBehaviour:
   index: {x: 8, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1432226478
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8958,7 +9134,8 @@ MonoBehaviour:
   index: {x: 3, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1434246657
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9015,7 +9192,8 @@ MonoBehaviour:
   index: {x: 6, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1436037730
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9072,7 +9250,8 @@ MonoBehaviour:
   index: {x: 14, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1443530924
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9129,7 +9308,8 @@ MonoBehaviour:
   index: {x: 0, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1462098580
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9186,7 +9366,8 @@ MonoBehaviour:
   index: {x: 10, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1488211687
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9243,7 +9424,8 @@ MonoBehaviour:
   index: {x: 7, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1490004649
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9300,7 +9482,8 @@ MonoBehaviour:
   index: {x: 1, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1498272570
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9357,7 +9540,8 @@ MonoBehaviour:
   index: {x: 8, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1502504266
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9414,7 +9598,8 @@ MonoBehaviour:
   index: {x: 10, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1504426221
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9471,7 +9656,8 @@ MonoBehaviour:
   index: {x: 6, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1508019284
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9528,7 +9714,8 @@ MonoBehaviour:
   index: {x: 11, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1508099445
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9585,7 +9772,8 @@ MonoBehaviour:
   index: {x: 5, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1512732090
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9642,7 +9830,8 @@ MonoBehaviour:
   index: {x: 5, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1513368352
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9699,7 +9888,8 @@ MonoBehaviour:
   index: {x: 7, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1514432629
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9756,7 +9946,8 @@ MonoBehaviour:
   index: {x: 7, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1518947014
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9813,7 +10004,8 @@ MonoBehaviour:
   index: {x: 4, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1522695315
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9870,7 +10062,8 @@ MonoBehaviour:
   index: {x: 12, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1524605165
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9927,7 +10120,8 @@ MonoBehaviour:
   index: {x: 1, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1540765032
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9984,7 +10178,8 @@ MonoBehaviour:
   index: {x: 12, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1549433174
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10041,7 +10236,8 @@ MonoBehaviour:
   index: {x: 13, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1558962808
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10098,7 +10294,8 @@ MonoBehaviour:
   index: {x: 11, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1560204019
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10155,7 +10352,8 @@ MonoBehaviour:
   index: {x: 5, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1580474794
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10212,7 +10410,8 @@ MonoBehaviour:
   index: {x: 9, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1581503553
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10331,7 +10530,8 @@ MonoBehaviour:
   index: {x: 3, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1602549019
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10388,7 +10588,8 @@ MonoBehaviour:
   index: {x: 12, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1605814190
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10445,7 +10646,8 @@ MonoBehaviour:
   index: {x: 3, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1609299390
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10502,7 +10704,8 @@ MonoBehaviour:
   index: {x: 13, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1625886358
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10559,7 +10762,8 @@ MonoBehaviour:
   index: {x: 5, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1637758626
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10616,7 +10820,8 @@ MonoBehaviour:
   index: {x: 1, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1651180299
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10673,7 +10878,8 @@ MonoBehaviour:
   index: {x: 2, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1690099743
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10730,7 +10936,8 @@ MonoBehaviour:
   index: {x: 1, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1696942140
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10787,7 +10994,8 @@ MonoBehaviour:
   index: {x: 6, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1702828504
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10844,7 +11052,8 @@ MonoBehaviour:
   index: {x: 2, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1704887797
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10901,7 +11110,8 @@ MonoBehaviour:
   index: {x: 4, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1713778926
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10958,7 +11168,8 @@ MonoBehaviour:
   index: {x: 5, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1721446857
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11015,7 +11226,8 @@ MonoBehaviour:
   index: {x: 12, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1726771214
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11072,7 +11284,8 @@ MonoBehaviour:
   index: {x: 4, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1750920184
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11129,7 +11342,8 @@ MonoBehaviour:
   index: {x: 10, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1759421900
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11186,7 +11400,8 @@ MonoBehaviour:
   index: {x: 11, y: 6}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1776163842
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11243,7 +11458,8 @@ MonoBehaviour:
   index: {x: 8, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1793023113
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11300,7 +11516,8 @@ MonoBehaviour:
   index: {x: 10, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1825964705
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11357,7 +11574,8 @@ MonoBehaviour:
   index: {x: 2, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1831503111
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11414,7 +11632,8 @@ MonoBehaviour:
   index: {x: 2, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1845319307
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11471,7 +11690,8 @@ MonoBehaviour:
   index: {x: 2, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1846885559
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11528,7 +11748,8 @@ MonoBehaviour:
   index: {x: 10, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1855710642
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11585,7 +11806,8 @@ MonoBehaviour:
   index: {x: 14, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1856691071
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11642,7 +11864,8 @@ MonoBehaviour:
   index: {x: 13, y: 12}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1861669685
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11699,7 +11922,8 @@ MonoBehaviour:
   index: {x: 9, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1875122708
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11756,7 +11980,8 @@ MonoBehaviour:
   index: {x: 2, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1884333242
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11813,7 +12038,8 @@ MonoBehaviour:
   index: {x: 12, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1884362865
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11870,7 +12096,8 @@ MonoBehaviour:
   index: {x: 4, y: 14}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1920045427
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11927,7 +12154,8 @@ MonoBehaviour:
   index: {x: 12, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1932365348
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11984,7 +12212,8 @@ MonoBehaviour:
   index: {x: 1, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1932545408
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12041,7 +12270,8 @@ MonoBehaviour:
   index: {x: 9, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1934698741
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12098,7 +12328,8 @@ MonoBehaviour:
   index: {x: 10, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1945562867
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12155,7 +12386,8 @@ MonoBehaviour:
   index: {x: 8, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1962162204
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12212,7 +12444,8 @@ MonoBehaviour:
   index: {x: 5, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1962614063
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12269,7 +12502,8 @@ MonoBehaviour:
   index: {x: 13, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1966938110
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12326,7 +12560,8 @@ MonoBehaviour:
   index: {x: 14, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1972549998
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12383,7 +12618,8 @@ MonoBehaviour:
   index: {x: 5, y: 10}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1980383881
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12440,7 +12676,8 @@ MonoBehaviour:
   index: {x: 4, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1981624768
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12497,7 +12734,8 @@ MonoBehaviour:
   index: {x: 0, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1986654151
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12554,7 +12792,8 @@ MonoBehaviour:
   index: {x: 13, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &1991661954
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12611,7 +12850,8 @@ MonoBehaviour:
   index: {x: 9, y: 2}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2004498494
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12668,7 +12908,8 @@ MonoBehaviour:
   index: {x: 3, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2005029160
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12725,7 +12966,8 @@ MonoBehaviour:
   index: {x: 13, y: 3}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2006186609
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12782,7 +13024,8 @@ MonoBehaviour:
   index: {x: 7, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2006787755
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12839,7 +13082,8 @@ MonoBehaviour:
   index: {x: 14, y: 9}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2011111598
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12896,7 +13140,8 @@ MonoBehaviour:
   index: {x: 0, y: 5}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2043109678
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12953,7 +13198,8 @@ MonoBehaviour:
   index: {x: 5, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2063857566
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13263,7 +13509,8 @@ MonoBehaviour:
   index: {x: 4, y: 4}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2088022514
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13320,7 +13567,8 @@ MonoBehaviour:
   index: {x: 13, y: 0}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2111801357
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13377,7 +13625,8 @@ MonoBehaviour:
   index: {x: 5, y: 7}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2114981513
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13434,7 +13683,8 @@ MonoBehaviour:
   index: {x: 13, y: 1}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2124688893
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13491,7 +13741,8 @@ MonoBehaviour:
   index: {x: 6, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2133828284
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13548,7 +13799,8 @@ MonoBehaviour:
   index: {x: 7, y: 11}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2137654015
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13605,7 +13857,8 @@ MonoBehaviour:
   index: {x: 2, y: 8}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2137755553
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13662,7 +13915,8 @@ MonoBehaviour:
   index: {x: 12, y: 13}
   isPlaced: 0
   board: {fileID: 576970633}
-  playerIndex: 0
+  chessState: 0
+  weightedValues: 0
 --- !u!65 &2144114565
 BoxCollider:
   m_ObjectHideFlags: 0

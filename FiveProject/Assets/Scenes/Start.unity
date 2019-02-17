@@ -289,6 +289,9 @@ MonoBehaviour:
   chessState: 0
   gameStatus: 0
   isOver: 0
+  isTurn: 0
+  text: {fileID: 0}
+  InfoText: {fileID: 0}
 --- !u!4 &1904083806
 Transform:
   m_ObjectHideFlags: 0
