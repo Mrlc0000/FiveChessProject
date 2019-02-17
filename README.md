@@ -1,3 +1,3 @@
 # FiveChessProject
 五子棋项目
-*1主要联系Editor 和AI算法
+*1主要练习UEditor 和AI算法
